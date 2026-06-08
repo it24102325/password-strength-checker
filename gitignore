@@ -1,16 +1,16 @@
-# Compiled binary
+# --Compiled binary--
 password_checker
 
-# Object files
+# --Object files--
 *.o
 *.a
 
-# Editor files
+# --Editor files--
 *.swp
 *.swo
 .vscode/
 .idea/
 
-# OS files
+# --OS files--
 .DS_Store
 Thumbs.db
