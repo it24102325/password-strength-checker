@@ -1,25 +1,3 @@
-/*
- * ██████╗  █████╗ ███████╗███████╗██╗    ██╗ ██████╗ ██████╗ ██████╗
- * ██╔══██╗██╔══██╗██╔════╝██╔════╝██║    ██║██╔═══██╗██╔══██╗██╔══██╗
- * ██████╔╝███████║███████╗███████╗██║ █╗ ██║██║   ██║██████╔╝██║  ██║
- * ██╔═══╝ ██╔══██║╚════██║╚════██║██║███╗██║██║   ██║██╔══██╗██║  ██║
- * ██║     ██║  ██║███████║███████║╚███╔███╔╝╚██████╔╝██║  ██║██████╔╝
- * ╚═╝     ╚═╝  ╚═╝╚══════╝╚══════╝ ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚═════╝
- *
- * PASSWORD STRENGTH CHECKER
- * Author    : Ghost
- * Version   : 1.0.0
- * Platform  : Kali Linux / Unix-like systems
- * License   : MIT
- *
- * FEATURES:
- *  - Real-time password strength analysis
- *  - Entropy calculation
- *  - Common password detection
- *  - Detailed security recommendations
- *  - Colored terminal output (ANSI escape codes)
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -162,6 +140,27 @@ int main(void) {
  * ════════════════════════════════════════════════════════════ */
 void print_banner(void) {
     printf(GREEN BOLD);
+    printf("\n");
+    printf(" ██████╗  █████╗ ███████╗███████╗██╗    ██╗ ██████╗ ██████╗ ██████╗\n");
+    printf(" ██╔══██╗██╔══██╗██╔════╝██╔════╝██║    ██║██╔═══██╗██╔══██╗██╔══██╗\n");
+    printf(" ██████╔╝███████║███████╗███████╗██║ █╗ ██║██║   ██║██████╔╝██║  ██║\n");
+    printf(" ██╔═══╝ ██╔══██║╚════██║╚════██║██║███╗██║██║   ██║██╔══██╗██║  ██║\n");
+    printf(" ██║     ██║  ██║███████║███████║╚███╔███╔╝╚██████╔╝██║  ██║██████╔╝\n");
+    printf(" ╚═╝     ╚═╝  ╚═╝╚══════╝╚══════╝ ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚═════╝\n");
+    printf("\n");
+    printf(" PASSWORD STRENGTH CHECKER\n");
+    printf(" Author    : Muditha\n");
+    printf(" Version   : 1.0.0\n");
+    printf(" Platform  : Kali Linux / Unix-like systems");
+    printf(" License   : MIT");
+    printf("\n");
+    printf(" FEATURES:\n");
+    printf("  - Real-time password strength analysis\n");
+    printf("  - Entropy calculation\n");
+    printf("  - Common password detection\n");
+    printf("  - Detailed security recommendations\n");
+    printf("  - Colored terminal output (ANSI escape codes\n");
+    printf("\n");
     printf("\n");
     printf("  ╔══════════════════════════════════════════════════════╗\n");
     printf("  ║                                                      ║\n");
