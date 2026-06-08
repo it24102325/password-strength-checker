@@ -1,4 +1,4 @@
-# 🔐 --Password Strength Checker--
+# 🔐 Password Strength Checker
 
 > A cybersecurity tool written in C that analyzes password strength with real-time feedback, entropy calculation, and actionable recommendations.
 
