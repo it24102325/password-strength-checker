@@ -35,6 +35,8 @@ cd password-strength-checker
 
 # Build
 make
+or
+gcc -Wall -O2 -std=c11 -o password_checker password_checker.c -lm
 
 # Run
 ./password_checker
