@@ -62,6 +62,8 @@ make
 ╚══════════════════════════════════════════════════════╝
 
   Enter password to analyze: ••••••••••••••
+<img width="1110" height="832" alt="interface 1" src="https://github.com/user-attachments/assets/79ee05b0-6727-4940-8480-a887685d97a7" />
+
 
   ══════════════════════════════════════════════════════
   ANALYSIS RESULTS
@@ -72,6 +74,9 @@ make
   Entropy         : 104.89 bits
   Est. Crack Time : Centuries+
 ```
+<img width="847" height="827" alt="interface 2 " src="https://github.com/user-attachments/assets/4e91f513-58cd-423a-82c1-cd52ce53e4a4" />
+
+<img width="807" height="746" alt="interface 3" src="https://github.com/user-attachments/assets/da2e4692-bc52-43c4-a328-a38dc7958dd4" />
 
 ---
 
