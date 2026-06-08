@@ -1,5 +1,5 @@
 # ─────────────────────────────────────────────────────────────
-# Makefile — Password Strength Checker
+# Makefile — Password Strength Checker-
 # ─────────────────────────────────────────────────────────────
 
 CC      = gcc
