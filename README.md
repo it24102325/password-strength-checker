@@ -30,7 +30,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/password-strength-checker.git
+git clone https://github.com/it24102325/password-strength-checker.git
 cd password-strength-checker
 
 # Build
