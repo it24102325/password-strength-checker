@@ -5,7 +5,7 @@
 #include <ctype.h>
 #include <time.h>
 
-/* ─── ANSI COLOR CODES ─── */
+/* ── ANSI COLOR CODES ── */
 #define RESET       "\033[0m"
 #define BOLD        "\033[1m"
 #define DIM         "\033[2m"
